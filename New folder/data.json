@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Web Developer (w/m/d)",
+    "field": "IT & Digitalisierung",
+    "isNew": true,
+    "isTarif": true,
+    "location": "Braunschweig",
+    "date": "29.06.2023",
+    "tasks": ["Frontend entwickeln im Team", "Backend entwickeln"]
+  },
+  {
+    "title": "Web Developer (w/m/d)",
+    "field": "IT & Digitalisierung",
+    "isNew": true,
+    "isTarif": true,
+    "location": "Braunschweig",
+    "date": "29.06.2023",
+    "tasks": ["Frontend entwickeln im Team", "Backend entwickeln"]
+  },
+  {
+    "title": "Web Developer (w/m/d)",
+    "field": "IT & Digitalisierung",
+    "isNew": true,
+    "isTarif": true,
+    "location": "Braunschweig",
+    "date": "29.06.2023",
+    "tasks": ["Frontend entwickeln im Team", "Backend entwickeln"]
+  },
+  {
+    "title": "Web Developer (w/m/d)",
+    "field": "IT & Digitalisierung",
+    "isNew": false,
+    "isTarif": true,
+    "location": "Braunschweig",
+    "date": "29.06.2023",
+    "tasks": ["Frontend entwickeln im Team", "Backend entwickeln"]
+  },
+  {
+    "title": "Web Developer (w/m/d)",
+    "field": "IT & Digitalisierung",
+    "isNew": true,
+    "isTarif": true,
+    "location": "Braunschweig",
+    "date": "29.06.2023",
+    "tasks": ["Frontend entwickeln im Team", "Backend entwickeln"]
+  },
+  {
+    "title": "Web Developer (w/m/d)",
+    "field": "IT & Digitalisierung",
+    "isNew": false,
+    "isTarif": true,
+    "location": "Braunschweig",
+    "date": "29.06.2023",
+    "tasks": ["Frontend entwickeln im Team", "Backend entwickeln"]
+  }
+]
